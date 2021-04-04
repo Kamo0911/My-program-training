@@ -1,2 +1,2 @@
-# My-program-training
- しがない高専生のプログラミング練習
+# My-program-train
+超絶独学プログラミング練習
